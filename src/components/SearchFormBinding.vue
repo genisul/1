@@ -1,6 +1,6 @@
 <template>
   <div>
-    <input type="search" v-model="searchNameList" :value="products" />
+    <input type="search" v-mode="searchNameList" :value="products" />
     {{ products }}
   </div>
 
